@@ -13,7 +13,7 @@ This app will greet you when you enter your name in the path of your browser (e.
 
 Here are the steps to install this app.
 
-- Clone it from GIT url: https://github.com/Yael128/Part1.git
+- Clone it from GIT url: https://github.com/Yael128/Hello_Part1.git
 - Open Git Bash
 - Change the current working directory to the location where you want the cloned directory.
 - Type ```git clone -b release/1.0```, and then paste URL.
